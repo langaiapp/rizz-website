@@ -39,7 +39,6 @@ We may update this privacy policy from time to time. If we make significant chan
 
 
 #### Our contact information:
-**LANG AI, LLC**
+**GENERATE AI, LLC**
 **8 THE GREEN, STE A, DOVER, DELAWARE,** [**United States**]
-Contact email: support@langaiapp.com
-.
+Contact email: support@generateaiapp.com

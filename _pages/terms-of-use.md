@@ -35,8 +35,8 @@ You retain ownership of your content, but by uploading content to the app, you g
 
 #### Our contact information:
 
-**LANG AI, LLC**
+**GENERATE AI, LLC**
 
 **8 THE GREEN, STE A, DOVER, DELAWARE,** [**United States**]
 
-Contact email: support@langaiapp.com
+Contact email: support@generateaiapp.com
